@@ -49,11 +49,6 @@ while True:
 ![2c arp](https://github.com/user-attachments/assets/37077134-fea1-4aea-8aa9-85031d977eb2)
 
 
-
-## PROGRAM - RARP
-![Screenshot 2024-10-15 143451](https://github.com/user-attachments/assets/399f4174-2c1f-4dd1-9107-d75f18d96aaa)
-
-
 ## OUPUT -RARP
 ![2c rarp](https://github.com/user-attachments/assets/96fff07d-7823-4942-bb48-ffaf8f6e1ddd)
 
